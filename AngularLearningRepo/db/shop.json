@@ -1,0 +1,86 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Asus Laptop",
+      "price": 2500,
+      "categoryId": 1,
+      "description": "Asus ZenBook",
+      "imageUrl": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1171&q=80"
+    },
+    {
+      "id": 2,
+      "name": "Lenovo Laptop",
+      "price": 6000,
+      "categoryId": 1,
+      "description": "Lenovo Thin",
+      "imageUrl": "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1032&q=80"
+    },
+    {
+      "id": 3,
+      "name": "Logitech Mouse",
+      "price": 3000,
+      "categoryId": 2,
+      "description": "G Pro X Superlight",
+      "imageUrl": "https://images.unsplash.com/photo-1616071359129-9b03697771a8?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
+    },
+    {
+      "id": 4,
+      "name": "HP Laptop",
+      "price": 7000,
+      "categoryId": 1,
+      "description": "HP Max",
+      "imageUrl": "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1032&q=80"
+    },
+    {
+      "id": 5,
+      "name": "Logitech Mouse",
+      "price": 2200,
+      "categoryId": 2,
+      "description": "G505",
+      "imageUrl": "https://images.unsplash.com/photo-1616071359129-9b03697771a8?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
+    },
+    {
+      "id": 6,
+      "name": "Monster Laptop",
+      "price": 6000,
+      "categoryId": 1,
+      "description": "Tulpar v18",
+      "imageUrl": "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1032&q=80"
+    },
+    {
+      "id": 7,
+      "name": "Razer Mouse",
+      "price": 3000,
+      "categoryId": 2,
+      "description": "Orochi v2",
+      "imageUrl": "https://images.unsplash.com/photo-1616071359129-9b03697771a8?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
+    },
+    {
+      "name": "G Wolves Hati",
+      "description": "HT-M",
+      "imageUrl": "https://i.rtings.com/assets/products/MJr0bp1o/g-wolves-hati-ht-m-classic-edition/design-large.jpg",
+      "price": "5000",
+      "categoryId": "2",
+      "id": 8
+    },
+    {
+      "name": "HyperX",
+      "description": "Pulsefire",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0564/3612/9997/products/hyperx_pulsefire_haste_black_red_0_top_down_2048x2048.jpg?v=1669052510",
+      "price": "750",
+      "categoryId": "2",
+      "id": 9
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Bilgisayar"
+    },
+    {
+      "id": 2,
+      "name": "Mouse"
+    }
+  ]
+}
